@@ -1,4 +1,4 @@
- create table student_fathima(rollno integer primary key,name varchar(20),dob date, dept varchar(5),marks float);
+ create table student_maneesha(rollno integer primary key,name varchar(20),dob date, dept varchar(5),marks float);
 
 A)  SQL> insert into student_maneesha values(1,'amitha','18-jun-1988','CS',480);
 
